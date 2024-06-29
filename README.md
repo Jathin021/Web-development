@@ -1,5 +1,0 @@
-Welcome to my Web Development Projects repository! This collection showcases the various web development projects I have created while learning through a web development course. Each project demonstrates my growth and understanding of different technologies, tools, and concepts within web development. From basic HTML pages to complex JavaScript applications, this repository serves as a portfolio of my journey and achievements as a student developer.
-
-The projects included range from a personal portfolio website and a to-do list application to a weather dashboard, an e-commerce product page, and a blogging platform. Each project highlights key learnings such as responsive design, DOM manipulation, API integration, advanced CSS styling, and full-stack development. This repository not only reflects my technical skills but also my dedication to continuous learning and improvement in web development.
-
-Feel free to explore the projects, provide feedback, or contribute. Thank you for visiting!
